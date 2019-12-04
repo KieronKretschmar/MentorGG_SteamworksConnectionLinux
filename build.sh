@@ -1,0 +1,1 @@
+g++ src/*.cpp proto_build/*.cc -Lsteamworks_sdk/redistributable_bin/linux64/ -lsteam_api -Lprotobuf -lprotobuf -I. -Iproto_build -o swc -pthread
