@@ -23,6 +23,7 @@ g++
 # FIFO Interface
 
 Use fifo `/tmp/swcpipei` to send sharecodes in `CSGO-xxxxx-xxxxx-xxxxx-xxxxx-xxxxx` format.
+
 Use fifo `/tmp/swcpipeo` to read response. Possible responses are:
 
 `--demo SHARECODE_TOO_OLD`
