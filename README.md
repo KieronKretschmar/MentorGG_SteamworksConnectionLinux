@@ -16,8 +16,14 @@ Uses g++ to compile source files
 ## Running
 ```./swc```
 
+## Testing
+Run the application, then execute
+
+```fifotest/run.sh```
+
 # Dependencies
 Google Protocol Buffers v2.5.0
+
 g++
 
 # FIFO Interface
